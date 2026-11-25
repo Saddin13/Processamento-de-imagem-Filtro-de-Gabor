@@ -1,0 +1,7 @@
+streamlit>=1.45
+numpy>=1.26
+pillow>=10
+matplotlib>=3.8
+pytest>=8
+# Opcional: só para a conferência "comparar com OpenCV" (o app funciona sem ele).
+# opencv-python>=4.9

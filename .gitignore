@@ -1,0 +1,16 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Slides da apresentação (ficam só no computador)
+slides/
+
+# Caches do Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Arquivos locais de ferramentas e anotações de planejamento
+.claude/
+.superpowers/
+docs/superpowers/
